@@ -4226,25 +4226,17 @@ product-recommendations:has([data-has-recommendations='false']) {
   font-size: 24px;
   font-weight: bold;
 }
+<<<<<<< Updated upstream
 .test-section__title {
+=======
+>>>>>>> Stashed changes
 
-.test-section {
-  padding: 40px;
-  text-align: center;
-  font-size: 24px;
-  font-weight: bold;
-  font-size: 24px;
-  font-weight: bold;
+.henson {
+  display: flex;
+  overflow-x: auto;
+  gap: 16px;
+  padding: 16px;
 }
-.test-section {
-  padding: 40px;
-  text-align: center;
-  font-size: 24px;
-  font-weight: bold;
-  font-size: 24px;
-  font-weight: bold;
-}
-
 
 /* end */
 
