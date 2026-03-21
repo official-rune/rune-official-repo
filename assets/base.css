@@ -4234,6 +4234,24 @@ product-recommendations:has([data-has-recommendations='false']) {
   font-size: 24px;
   font-weight: bold;
 }
+.test-section__title {
+
+.test-section {
+  padding: 40px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  font-size: 24px;
+  font-weight: bold;
+}
+.test-section {
+  padding: 40px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  font-size: 24px;
+  font-weight: bold;
+}
 
 
 /* end */
