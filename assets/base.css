@@ -4214,40 +4214,14 @@ product-recommendations:has([data-has-recommendations='false']) {
 .test-section {
   padding: 40px;
   text-align: center;
-  font-size: 24px;
-  font-weight: bold;
-  font-size: 24px;
-  font-weight: bold;
 }
 
 .test-section__title {
   font-size: 24px;
   font-weight: bold;
-  font-size: 24px;
-  font-weight: bold;
+  color: red;
 }
 
-.henson {
-  display: flex;
-  overflow-x: auto;
-  gap: 16px;
-  padding: 16px;
-}
-
-.keannu {
-  display: flex;
-  overflow-x: auto;
-  gap: 16px;
-  padding: 16px;
-}
-
-
-.caniedo {
-  display: flex;
-  overflow-x: auto;
-  gap: 16px;
-  padding: 16px;
-}
 
 /* end */
 
