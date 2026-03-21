@@ -4226,7 +4226,12 @@ product-recommendations:has([data-has-recommendations='false']) {
   font-size: 24px;
   font-weight: bold;
 }
-
+.test-section__title {
+  font-size: 24px;
+  font-weight: bold;
+  font-size: 24px;
+  font-weight: bold;
+}
 
 /* end */
 
