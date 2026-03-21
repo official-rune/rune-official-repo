@@ -4241,6 +4241,13 @@ product-recommendations:has([data-has-recommendations='false']) {
   padding: 16px;
 }
 
+.caniedo {
+  display: flex;
+  overflow-x: auto;
+  gap: 16px;
+  padding: 16px;
+}
+
 /* end */
 
 
