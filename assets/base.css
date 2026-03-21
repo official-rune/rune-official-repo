@@ -4226,10 +4226,6 @@ product-recommendations:has([data-has-recommendations='false']) {
   font-size: 24px;
   font-weight: bold;
 }
-<<<<<<< Updated upstream
-.test-section__title {
-=======
->>>>>>> Stashed changes
 
 .henson {
   display: flex;
