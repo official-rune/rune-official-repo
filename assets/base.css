@@ -4208,3 +4208,20 @@ product-recommendations:has([data-has-recommendations='false']) {
     translate: 0px var(--atc-destination, 0px);
   }
 }
+
+/* custom carousel */
+
+.test-section {
+  padding: 40px;
+  text-align: center;
+}
+
+.test-section__title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+
+/* end */
+
+

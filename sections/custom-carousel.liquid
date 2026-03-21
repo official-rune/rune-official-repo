@@ -1,0 +1,38 @@
+
+
+<section class="test-section">
+  <h2 class="test-section__title">
+    {{ section.settings.title }}
+  </h2>
+</section>
+
+{% style %}
+.test-section {
+  background-color: {{ section.settings.bg_color }};
+}
+{% endstyle %}
+
+{% schema %}
+{
+  "name": "Test Section",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Title",
+      "default": "Hello RUNE"
+    },
+    {
+      "type": "color",
+      "id": "bg_color",
+      "label": "Background Color",
+      "default": "#f4f4f4"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Test Section"
+    }
+  ]
+}
+{% endschema %}
